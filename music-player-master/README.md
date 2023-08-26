@@ -1,4 +1,4 @@
 # music-player
 
 Music player with plain JavaScript<br />
-Live: https://joelschrage.github.io/music-player/git branch -M main
+site is live at https://aysha321.github.io/musicplayer-js/  branch -M main
